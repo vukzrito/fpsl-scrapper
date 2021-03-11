@@ -1,0 +1,18 @@
+[
+    {
+        "id": 4,
+        "name": "Forward"
+    },
+    {
+        "id": 3,
+        "name": "Mid Fielder"
+    },
+    {
+        "id": 1,
+        "name": "GoalKeeper"
+    },
+    {
+        "id": 2,
+        "name": "Defender"
+    }
+]
